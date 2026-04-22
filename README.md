@@ -73,9 +73,4 @@ El indicador de la parte superior pasará de **ROJO** a **AMARILLO** mientras bu
 
 ---
 
-## 📱 Capturas de Pantalla
-
-*(Aquí puedes añadir imágenes de tu Dashboard, Gráficas y Pantalla de Aceleración)*
-
----
-Desarrollado por [robertogd75](https://github.com/robertogd75) - ¡Nos vemos en la pista! 🏁
+Desarrollado por [robertogd75](https://github.com/robertogd75)
